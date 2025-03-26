@@ -5,7 +5,7 @@ import os
 import io
 import base64
 from PIL import Image
-from NaranjaMachineTracker.data_handler import DataHandler
+from naranjamachinetracker.data_handler import DataHandler
 from utils import calculate_utilization, get_machine_capacity, get_machine_type
 from visualization import plot_daily_utilization, plot_inventory_impact
 
