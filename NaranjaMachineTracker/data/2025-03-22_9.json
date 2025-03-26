@@ -1,0 +1,116 @@
+{
+  "timestamp": "2025-03-22_9",
+  "date": "2025-03-22",
+  "hour": 9,
+  "username": "Ed",
+  "machines": {
+    "Machine 9": {
+      "carton_type": "A15C",
+      "packers": 3,
+      "cartons_packed": 104,
+      "inventory": "Wrapped",
+      "capacity": 216,
+      "utilization": 48.148148148148145,
+      "cartons_per_packer": 34.666666666666664
+    },
+    "Machine 10": {
+      "carton_type": "A02D",
+      "packers": 1,
+      "cartons_packed": 0,
+      "inventory": "Wrapped",
+      "capacity": 300,
+      "utilization": 0.0,
+      "cartons_per_packer": 0.0
+    },
+    "Machine 11": {
+      "carton_type": "A02D",
+      "packers": 1,
+      "cartons_packed": 0,
+      "inventory": "Wrapped",
+      "capacity": 360,
+      "utilization": 0.0,
+      "cartons_per_packer": 0.0
+    },
+    "Machine 12": {
+      "carton_type": "A02D",
+      "packers": 1,
+      "cartons_packed": 0,
+      "inventory": "Wrapped",
+      "capacity": 360,
+      "utilization": 0.0,
+      "cartons_per_packer": 0.0
+    },
+    "Machine 13": {
+      "carton_type": "A02D",
+      "packers": 1,
+      "cartons_packed": 0,
+      "inventory": "Wrapped",
+      "capacity": 360,
+      "utilization": 0.0,
+      "cartons_per_packer": 0.0
+    },
+    "Machine 14": {
+      "carton_type": "A02D",
+      "packers": 1,
+      "cartons_packed": 0,
+      "inventory": "Wrapped",
+      "capacity": 360,
+      "utilization": 0.0,
+      "cartons_per_packer": 0.0
+    },
+    "Machine 15": {
+      "carton_type": "A02D",
+      "packers": 1,
+      "cartons_packed": 0,
+      "inventory": "Wrapped",
+      "capacity": 210,
+      "utilization": 0.0,
+      "cartons_per_packer": 0.0
+    },
+    "Machine 16": {
+      "carton_type": "A02D",
+      "packers": 1,
+      "cartons_packed": 0,
+      "inventory": "Wrapped",
+      "capacity": 210,
+      "utilization": 0.0,
+      "cartons_per_packer": 0.0
+    },
+    "Machine 17": {
+      "carton_type": "A02D",
+      "packers": 1,
+      "cartons_packed": 0,
+      "inventory": "Wrapped",
+      "capacity": 210,
+      "utilization": 0.0,
+      "cartons_per_packer": 0.0
+    },
+    "Machine 18": {
+      "carton_type": "A02D",
+      "packers": 1,
+      "cartons_packed": 0,
+      "inventory": "Wrapped",
+      "capacity": 210,
+      "utilization": 0.0,
+      "cartons_per_packer": 0.0
+    },
+    "Machine 19": {
+      "carton_type": "A02D",
+      "packers": 1,
+      "cartons_packed": 0,
+      "inventory": "Wrapped",
+      "capacity": 210,
+      "utilization": 0.0,
+      "cartons_per_packer": 0.0
+    },
+    "Machine 20": {
+      "carton_type": "A02D",
+      "packers": 1,
+      "cartons_packed": 0,
+      "inventory": "Wrapped",
+      "capacity": 210,
+      "utilization": 0.0,
+      "cartons_per_packer": 0.0
+    }
+  }
+}

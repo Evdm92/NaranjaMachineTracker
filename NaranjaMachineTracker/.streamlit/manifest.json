@@ -1,0 +1,21 @@
+{
+  "name": "Naranja Automation",
+  "short_name": "NaranjaAuto",
+  "description": "Machine Utilization Tracker for Naranja Automation",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#F63366",
+  "icons": [
+    {
+      "src": "naranja_icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "naranja_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
